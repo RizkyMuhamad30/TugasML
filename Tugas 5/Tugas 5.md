@@ -101,10 +101,23 @@ Machine Learning
  
 
 2.0. Support Vector Machine (SVM) <br>
+![image](https://github.com/user-attachments/assets/b7d108e5-03c2-45fb-8863-eae64018f5d5)
+
 2.1. Pengenalan Decision Boundary & Hyperplane <br>
 2.2. Pengenalan Support Vector & Maximum Margin <br>
 2.3. Pengenalan kondisi Linearly Inseparable dan Kernel Tricks <br>
 2.4. Pengenalan MNIST Handwritten Digits Dataset <br>
+![image](https://github.com/user-attachments/assets/6bea0efd-7245-42a1-8c73-101625b91401)
+![image](https://github.com/user-attachments/assets/9241d45e-16b3-421a-bbdf-e1e6b48ed56b)
+
+
 2.5. Klasifikasi dengan Support Vector Classifier | SVC <br>
+![image](https://github.com/user-attachments/assets/4f6d6412-ba9d-40d9-910f-aa77ce9deeb4)
+![image](https://github.com/user-attachments/assets/8b0560fc-29ef-40aa-9eb2-84a115a76618)
+
 2.6. Hyperparameter Tuning dengan Grid Search <br>
-2.7. Evaluasi Model
+![image](https://github.com/user-attachments/assets/34f962b9-8566-4ea5-947d-efea95afff37)
+![image](https://github.com/user-attachments/assets/c5ff4f7e-c3a5-4c48-8d84-4a71db338f7c)
+
+2.7. Evaluasi Model <br>
+![image](https://github.com/user-attachments/assets/9b7e8cfc-1783-4cd9-86cd-1733feb8ff8d)
